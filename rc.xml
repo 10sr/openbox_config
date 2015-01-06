@@ -318,6 +318,12 @@
     <keybind key="A-Return">
       <action name="ToggleFullscreen"/>
     </keybind>
+    <keybind key="W-Up">
+      <action name="Maximize"/>
+    </keybind>
+    <keybind key="W-Down">
+      <action name="Unmaximize"/>
+    </keybind>
     <!-- desktop switching -->
     <!-- <keybind key="A-Left"> -->
     <!--   <action name="GoToDesktop"> -->
