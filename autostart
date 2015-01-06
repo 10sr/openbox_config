@@ -17,4 +17,4 @@
 #xfce-mcs-manager &
 
 sh "$HOME/.dotfiles/xprograms" tint2 nmapplet volumeicon compton feh \
-synapse neap_hotkey conky
+    synapse neap_hotkey conky macbook_rightclick
