@@ -1,3 +1,5 @@
+**Moved to https://github.com/10sr/dotfiles/tree/master/others/openbox_configs**
+
 Openbox Configuration
 =====================
 
